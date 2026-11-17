@@ -69,7 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-21 141349" src="https://github.com/user-attachments/assets/def32db9-e5f7-46a5-a628-142729fc60dd" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c196afbc-5f2b-446e-bb5e-6af7f28728fb" />
 
 
@@ -79,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 141712" src="https://github.com/user-attachments/assets/cc0af52a-70a3-4fbc-99bc-27fb24be0ffb" />
 
 
 
@@ -92,6 +93,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 132928" src="https://github.com/user-attachments/assets/78e3fe88-4439-4d1e-b9e2-c626f60e45f3" />
 
 
 
@@ -110,7 +112,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="1920" height="1080" alt="Screenshot 2026-10-21 141349" src="https://github.com/user-attachments/assets/def32db9-e5f7-46a5-a628-142729fc60dd" />
 
 
 # SEQUENCE DIAGRAM
@@ -118,6 +120,8 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-03 104515" src="https://github.com/user-attachments/assets/fd3d3786-c52b-47ea-b665-e872d6adf96c" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
