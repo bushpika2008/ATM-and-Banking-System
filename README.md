@@ -139,49 +139,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
 
-`
-``
 
-`
-
-`
-`
-`
-``
-`
-`
-``
-
-`
-``
-`
-`
-
-``
-`
-`
-`
-``
-
-``
-
-`
-
-
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-``
-`
-`
-`
 `
 
 ``
