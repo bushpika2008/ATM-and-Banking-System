@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230038
+# Name: BUSHPIKA C
+# Date: 17.11.2026
 
 
 # AIM:
@@ -49,6 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ff59d1a-c142-42bc-9090-38d442cfe092" />
 
 
 
@@ -68,6 +69,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1920" height="1080" alt="Screenshot 2026-10-21 141349" src="https://github.com/user-attachments/assets/def32db9-e5f7-46a5-a628-142729fc60dd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c196afbc-5f2b-446e-bb5e-6af7f28728fb" />
 
 
 # COMMUNICTION DIAGRAM:
